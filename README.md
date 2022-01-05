@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="./Fig1.png">
+  <img src="./Fig1.PNG">
 </p>
 
 
@@ -50,7 +50,7 @@ If you like to update the file by adding the unlisted open-source articles, feel
 The diagram below illustrates the criteria used to evaluate the performance of the connectional brain templates generated for single-view graph integration methods and multi-view graphs fusion methods. This includes first graph centeredness using Frobenius distance, second, the graph-derived biomarker reproducibility where we identify the overlap of top k discriminative nodes (ROIs) computed by the graph fusion methods and by an independent biomarker selection method, third the global-level similarity using both modularity and global efficiency measures, fourth the graph distance-based similarity where we compute Hamming and Jaccard distances. Finally, we include the graph node-wise similarity where we evaluate three behavior for the graph: integration behavior using participation coefficient, segregation behavior using local efficiency, and hubness behavior using the following centrality metrics: PageRank (Xing et al., [2004](https://ieeexplore.ieee.org/abstract/document/1344743?casa_token=aAa34BUAwbUAAAAA:6CR5vikAH2k1yRB71SBuOB4Fqfv5yjMPVe1vCWaFVdZkKezwQ12gNAxfyzsuhak0unBKUkTF)), Katz centrality (Katz et al., [1953](https://link.springer.com/content/pdf/10.1007/BF02289026.pdf)), node strength (Barrat et al., [2004](https://www.pnas.org/content/101/11/3747.short)), random-walk centrality (Newman et al., [2005](https://www.sciencedirect.com/science/article/pii/S0378873304000681?casa_token=iaSozcruXUUAAAAA:PL_Z4eYWiiFEG7e2ywT0C-nExhALJmwYUSjTBv_atVIB0cohyuimRw_vN9reSFounCW8-BOD)), information centrality (Stephenson et al., [1989](https://www.sciencedirect.com/science/article/abs/pii/0378873389900166)), Laplacian centrality (Qi et al., [2012](https://www.sciencedirect.com/science/article/pii/S0020025511006761?casa_token=lYprxjd02QMAAAAA:0JPssbzFOMqkiH7tzI2HkOcb-kSKckBrPc3c3x3-KQEiMz6WhIRu6TEwef_KSjFKaLjmgFHB)), eigenvector centrality (Newman et al., [2008](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.8175&rep=rep1&type=pdf)), and betweeness centrality (Brandes et al., [2001](https://www.tandfonline.com/doi/abs/10.1080/0022250x.2001.9990249?casa_token=uRBF4oWSl9cAAAAA:vkvJIX6d2PX-g2F1j9EEadUKa_fdNy1zm48htKildQMOgAaIFtCXIUCNk_7LruO1TCLp8hh7GaE)).
 
 <p align="center">
-  <img src="./Fig2.png">
+  <img src="./Fig2.PNG">
 </p>
 
 # Data format
