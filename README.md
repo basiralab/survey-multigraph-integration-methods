@@ -26,7 +26,7 @@ If you like to update the file by adding the unlisted open-source articles, feel
 
 # Graph integration and fusion 
 
-## Multi-graph fusion
+## Multi-graph integration
 | Title                                                        | Paper | Author | Dataset | Code | Youtube Video |  Proceeding/Journal/Year |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:| :----------------------:|:----------------------: 
 | Deep Graph Normalizer: A Geometric Deep Learning Approach for Estimating Connectional Brain Templates | [ARXIV](https://arxiv.org/pdf/2012.14131.pdf)  | Mustafa Burak Gurbuz |  [ADNI 3](http://adni.loni.usc.edu/)  | [Python](https://github.com/basiralab/DGN) | [10 min](https://www.youtube.com/watch?v=Q_WLY2ZNxRk) | MICCAI 2020 | 
