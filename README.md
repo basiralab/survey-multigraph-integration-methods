@@ -1,4 +1,4 @@
-# Comparative Survey of Connectional Brain Template Estimation Methods in Network Neuroscience
+# Comparative Survey of Multigraph Integration Methods for Holistic Brain Connectivity Mapping
 
 > [Nada Chaari](https://github.com/Nada-Chaari-ITU)<sup>1,2</sup>, [Hatice Camgöz Akdağ]<sup>2</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
