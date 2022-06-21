@@ -107,3 +107,16 @@ $pip install matplotlib
 <p align="center">
   <img src="./Fig3.png">
 </p>
+
+# arXiv Paper Link for Citation
+
+https://arxiv.org/abs/2204.05110
+
+```latex
+@article{chaari2022,
+  title={Comparative Survey of Multigraph Integration Methods for Holistic Brain Connectivity Mapping},
+  author={Chaari, Nada and Akdag, Hatice Camgoz and Rekik, Islem},
+  journal={arXiv preprint arXiv:2204.05110},
+  year={2022}
+}
+```
