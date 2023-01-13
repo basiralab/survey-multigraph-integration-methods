@@ -114,9 +114,11 @@ https://arxiv.org/abs/2204.05110
 
 ```latex
 @article{chaari2022,
-  title={Comparative Survey of Multigraph Integration Methods for Holistic Brain Connectivity Mapping},
-  author={Chaari, Nada and Akdag, Hatice Camgoz and Rekik, Islem},
-  journal={arXiv preprint arXiv:2204.05110},
-  year={2022}
+  title={Comparative survey of multigraph integration methods for holistic brain connectivity mapping},
+  author={Chaari, Nada and Akda{\u{g}}, Hatice Camg{\"o}z and Rekik, Islem},
+  journal={Medical Image Analysis},
+  pages={102741},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
